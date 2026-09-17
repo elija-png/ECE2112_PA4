@@ -3,6 +3,8 @@
 
 This repository contains the Programming Assignment 4 for the course "Advanced Computer Programming" for S.Y. 2026-2027. This project covers Pandas DataFrames filtering, conditional logic, aggregation, and data visualization using the `board2.xlsx` dataset.
 
+Note: Download `board2.xslx` in order to run the code with all the data.  
+
 ---
 
 ## A. VISCOMM DATAFRAME
@@ -47,6 +49,7 @@ To see the main Python notebook for Programming Assessment 4, click this link: h
 
 ---
 **README Changelog:**  
+**09/17/2026 - Removed original version of PA4.**  
 **09/17/2026 - Uploaded new version of PA4. Now named PA4 (2).ipynb. Changelog: Formatting fixes**  
 **09/17/2026 - Cleaned up Readme.**  
 **9/16/2026 - CREATED REPOSITORY**  
