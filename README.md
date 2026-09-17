@@ -7,7 +7,7 @@ Note: Download `board2.xslx` in order to run the code with all the data.
 
 ---
 
-## A. VISCOMM DATAFRAME
+## A. VISAYAS COMMUNICATION DATAFRAME  
 
 Load the `board2.xlsx` dataset into a Pandas DataFrame named `df` and compute the overall subject average across Math, GEAS, Electronics, and Communication. Create a filtered DataFrame named `VisComm` that contains only students whose Hometown is `'Visayas'` and whose Track is `'Communication'`.
 
@@ -20,7 +20,7 @@ The functions and methods used in this problem:
 
 ---
 
-## B. VISFEMALE DATAFRAME
+## B. VISAYAS FEMALE DATAFRAME  
 
 Perform conditional indexing on `df` to create a new DataFrame named `VisFemale` containing female students hailing from Visayas.
 
@@ -31,7 +31,7 @@ The functions and methods used in this problem:
 
 ---
 
-## C. CATEGORY MEANS & PLOTTING
+## C. CATEGORY-AVERAGE VISUALIZATION  
 
 Analyze performance dynamics across categories by calculating mean `Average` scores grouped by Track, Gender, and Hometown, and visualize the results using Matplotlib.
 
@@ -51,7 +51,7 @@ To see the main Python notebook for Programming Assessment 4, click this link: h
 **README Changelog:**  
 **09/17/2026 - Removed original version of PA4.**  
 **09/17/2026 - Uploaded new version of PA4. Now named PA4 (2).ipynb. Changelog: Formatting fixes**  
-**09/17/2026 - Cleaned up Readme.**  
+**09/17/2026 - Cleaned up Readme. Renamed titles to the same on the rubric**  
 **09/17/2026 - Uploaded original PA4 file**  
 **9/16/2026 - CREATED REPOSITORY**  
 All changes are in UTC+8 unless otherwise stated
